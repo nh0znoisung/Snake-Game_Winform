@@ -1,0 +1,16 @@
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.pdb
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake_Game.HelpMessage.resources
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake_Game.PlayerInfo.resources
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake_Game.DashBoard.resources
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\bin\Debug\Snake Game.exe.manifest
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\bin\Debug\Snake Game.application
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.exe.manifest
+C:\Users\Quách Minh Tuấn\source\repos\Snake Game\obj\Debug\Snake Game.application
